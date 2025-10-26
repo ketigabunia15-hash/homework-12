@@ -4,8 +4,11 @@
   box-sizing: border-box;
 }
 
-header {
-  angle: 0 deg;
+ header {
+  width: 90%;          
+  max-width: 800px;   
+  margin: 0 auto;      
+  height: 55px;       
   opacity: 1;
   padding: 20px 0;
   background-color: #f55a5a;
